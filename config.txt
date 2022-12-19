@@ -1,0 +1,5 @@
+[application]
+source=./img/test.mp4
+output-dir=./output
+video-fps=25
+#rtsp-url=rtsp://127.0.0.1:8554/video
